@@ -1,0 +1,16 @@
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/calculadoraConvertidor
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/calculadoraConvertidor.deps.json
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/calculadoraConvertidor.runtimeconfig.json
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/calculadoraConvertidor.runtimeconfig.dev.json
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/calculadoraConvertidor.dll
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/ref/calculadoraConvertidor.dll
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/bin/Debug/net5.0/calculadoraConvertidor.pdb
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.csproj.AssemblyReference.cache
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.GeneratedMSBuildEditorConfig.editorconfig
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.AssemblyInfoInputs.cache
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.AssemblyInfo.cs
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.csproj.CoreCompileInputs.cache
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.dll
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/ref/calculadoraConvertidor.dll
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.pdb
+/home/yavixo/Documentos/GitHub/desarrolloSoftware2/calculadoraConvertidor/obj/Debug/net5.0/calculadoraConvertidor.genruntimeconfig.cache
